@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">SearchFilm1</string>
+
+    <string name="link">Картинки  взяты с https://www.movieposters.com</string>
+    <string name="b_menu">МЕНЮ</string>
+    <string name="b_fav">ИЗБРАННОЕ</string>
+    <string name="b_watch_later">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="b_selections">ПОДБОРКИ</string>
+    <string name="b_setting">НАСТРОЙКИ</string>
+
+
+
 </resources>
